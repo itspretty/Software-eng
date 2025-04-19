@@ -6,3 +6,7 @@ TEST(AdapterTest, AdapterReturnsOldPrint) {
     PrinterAdapter adapter(&oldPrinter);
     EXPECT_EQ(adapter.Print(), "Printing from old printer");
 }
+
+TEST(, ) {
+
+}
